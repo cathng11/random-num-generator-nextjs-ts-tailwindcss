@@ -1,0 +1,11 @@
+{
+    "name": "Random Number Generator",
+    "version": "1.0.0",
+    "description": "Random Number Generator",
+    "manifest_version": 3,
+    "author": "Vinh Nguyen",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Random Number Generator"
+    }
+}
